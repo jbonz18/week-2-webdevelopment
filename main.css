@@ -1,0 +1,10 @@
+body {
+    background-image: url(../ata-web-exam/stars_on_sky.jpg);
+}
+.jumbotron{
+    background-color: #2be2d3e3 ;
+}
+.audio-buttons{
+    display: flex;
+    justify-content: space-between;
+}
